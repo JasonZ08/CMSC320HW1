@@ -1,0 +1,5 @@
+What is the difference between a merge and a rebase?
+
+Git merge combines the feature branch and the main branch into one branch while preserving 
+the history of both branches. Git rebase, on the other hand, moves the features on the feature 
+branch to the main branch and rewrites the history, creating a linear timeline.
